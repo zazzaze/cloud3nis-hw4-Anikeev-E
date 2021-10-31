@@ -1,0 +1,4 @@
+export const NOTES_FETCHED = 'NOTES_FETCHED'
+export const NOTE_CREATED = 'NOTE_CREATED'
+export const NOTE_DELETED = 'NOTE_DELETED'
+export const NOTE_UPDATED = 'NOTE_UPDATED'
